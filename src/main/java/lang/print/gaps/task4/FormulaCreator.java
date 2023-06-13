@@ -13,6 +13,7 @@ public class FormulaCreator {
         char char2 = 'b';
         int int2 = (int) char2;
 
+
         System.out.println((nine * Math.pow(int1,2) - 5 * int2 + two + int1 - seven) * (int1 + int2 - four * int1 * int2 / two) );
 
 
